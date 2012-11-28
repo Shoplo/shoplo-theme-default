@@ -1,0 +1,13 @@
+{"themes":
+  {"Minimal":
+     {"content_bg_color": "#e6f2f9",
+      "content_link_color": "#808080",
+      "content_logo": "logo.png",
+      "content_menu_color": "#777777",
+      "shadow_oppacity": "0.1",
+      "facebook_link": "http://www.facebook.com/platform",
+      "newsletter_bg_color": "#e6f2f9",
+      "newsletter_border_color": "#afddf2",
+      "frontpage_collection": "frontpage",
+      "use_logo_image": "0"}},
+ "active":"Minimal"}
